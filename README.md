@@ -1,7 +1,9 @@
 # Hi there, I'm Anjali Nandangi 👋
 
 🚀 **Tech Enthusiast | Web Developer | Building Scalable Solutions**
+
 🎓 **B.Tech Computer Science Engineering | SIT Yadrav**
+
 💡 **Focused on building scalable and efficient solutions**
 
 ---
