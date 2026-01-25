@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there, I'm Anjali nandangi 👋  
 
-<!--
-**anjalinandangi/anjalinandangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Tech Enthusiast | Web Developer | Building Scalable Solutions
+🎓 B.Tech Computer Engineering | SIT Yadrav
+💡 Building Scalable Solutions | Optimizing Workflows  
 
-Here are some ideas to get you started:
+🎓 *B.Tech Computer Science Engineering*  
+💻 *Interested in Java, DSA, Web Development*  
+🚀 *Focused on building scalable and efficient solutions*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+
+- 🔹 Passionate about software development and problem solving  
+- 🔹 Actively strengthening *Java, Data Structures & Algorithms*  
+- 🔹 Love learning new technologies and applying them in projects  
+
+---
+
+## 🛠️ Tech Stack
+
+*Languages:*  
+- Java  
+- Python  
+  
+
+*Frontend:*  
+- HTML  
+- CSS  
+- JavaScript  
+
+*Backend:*  
+- Spring Boot  
+- Django  
+
+*Database:*  
+- MySQL
+- Oracle
+- PostgreSql
+
+*Tools:*  
+- Git & GitHub  
+- VS Code  
+
+---
+
+
+## 🌐 Let’s Connect
+
+- 🔗 GitHub: https://github.com/anjalinandangi
+- 🔗 LinkedIn: https://linkedin.com/in/anjali-nandangi
+- 🔗 LeetcCode: https://leetcode.com/u/Anjali_Nandangi
+
+
+---
+
+⭐ Thank you for visiting my profile!
