@@ -4,6 +4,8 @@
 🎓 B.Tech Computer Engineering | SIT Yadrav
 💡 Building Scalable Solutions | Optimizing Workflows  
 
+---
+
 🎓 *B.Tech Computer Science Engineering*  
 💻 *Interested in Java, DSA, Web Development*  
 🚀 *Focused on building scalable and efficient solutions*
@@ -12,36 +14,19 @@
 
 ## 🌟 About Me
 
-- 🔹 Passionate about software development and problem solving  
-- 🔹 Actively strengthening *Java, Data Structures & Algorithms*  
-- 🔹 Love learning new technologies and applying them in projects  
+🔹 Passionate about software development and problem solving  
+🔹 Actively strengthening *Java, Data Structures & Algorithms*  
+🔹 Love learning new technologies and applying them in projects  
 
 ---
 
 ## 🛠️ Tech Stack
 
-*Languages:*  
-- Java  
-- Python  
-  
-
-*Frontend:*  
-- HTML  
-- CSS  
-- JavaScript  
-
-*Backend:*  
-- Spring Boot  
-- Django  
-
-*Database:*  
-- MySQL
-- Oracle
-- PostgreSql
-
-*Tools:*  
-- Git & GitHub  
-- VS Code  
+*Languages:*  Java|Python|C++|C 
+*Frontend:*  HTML|CSS|JavaScript  
+*Backend:*  Django|Flask|PHP
+*Database:* MySQL|Oracle|PostgreSql
+*Tools:*   Git & GitHub|VS Code  
 
 ---
 
