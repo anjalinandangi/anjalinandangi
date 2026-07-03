@@ -14,10 +14,17 @@ Final Year B.Tech CSE Student | Java Full Stack Developer | Spring Boot Enthusia
 - 📚 Practicing **Data Structures & Algorithms**
 
 ---
+## 💻 Languages & Tools
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,ts,mysql,git,github,postman,python,cpp,oracle" />
+
+</p>
+
+---
+
 
 ## 🌐 Connect with Me
-
-<h2>🌐 Connect with Me</h2>
 
 <p align="left">
 
@@ -28,16 +35,6 @@ Final Year B.Tech CSE Student | Java Full Stack Developer | Spring Boot Enthusia
 <a href="https://leetcode.com/u/anjali_nandangi/" target="_blank">
   <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50"/>
 </a>
-
-</p>
-
----
-
-## 💻 Languages & Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,ts,mysql,git,github,postman,python,cpp,oracle" />
 
 </p>
 
