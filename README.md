@@ -1,54 +1,84 @@
-# Hi there, I'm Anjali Nandangi 👋
+<h1 align="center">Hi 👋, I'm Anjali Avinash Nandangi</h1>
 
-🚀 **Tech Enthusiast | Web Developer | Building Scalable Solutions**
+<h3 align="center">
+Final Year B.Tech CSE Student | Java Full Stack Developer | Spring Boot Enthusiast
+</h3>
 
-🎓 **B.Tech Computer Science Engineering | SIT Yadrav**
-
-💡 **Focused on building scalable and efficient solutions**
-
----
-
-## 🌟 About Me
-
-🔹 Passionate about software development and problem solving
-
-🔹 Actively strengthening **Java, Data Structures & Algorithms**
-
-🔹 Love learning new technologies and applying them in real‑world projects
-
-🔹 Interested in backend systems, databases, and clean code practices
+<p align="center">
+Passionate about building scalable web applications using Java, Spring Boot, REST APIs, and React.
+I enjoy solving Data Structures & Algorithms problems on LeetCode and continuously improving my development skills.
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-**Languages**
-Java | Python | C++ | C
-
-**Frontend**
-HTML | CSS | JavaScript
-
-**Backend**
-Django | Flask | PHP
-
-**Database**
-MySQL | Oracle | PostgreSQL
-
-**Tools**
-Git & GitHub | VS Code
+- 🔭 Currently working on **Employee Management System using Spring Boot**
+- 🌱 Learning **Java, Spring Boot, REST APIs, React**
+- 💻 Interested in **Backend Development & Full Stack Development**
+- 📚 Practicing **Data Structures & Algorithms**
+- 🎯 Goal: Become a Software Development Engineer (SDE)
 
 ---
 
+## 🌐 Connect with Me
 
-## 🌐 Let’s Connect
+<p align="left">
+<a href="https://www.linkedin.com/in/anjali-nandangi-84996627b/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+</a>
 
-* 🔗 **GitHub:** [https://github.com/anjalinandangi](https://github.com/anjalinandangi)
-* 🔗 **LinkedIn:** [https://linkedin.com/in/anjali-nandangi](https://linkedin.com/in/anjali-nandangi)
-* 🔗 **LeetCode:** [https://leetcode.com/u/Anjali_Nandangi](https://leetcode.com/u/Anjali_Nandangi)
+<a href="https://leetcode.com/u/anjali_nandangi/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
+</a>
+</p>
 
 ---
 
+## 💻 Languages & Tools
 
+<p align="left">
 
-⭐ *Thank you for visiting my profile!*
-Feel free to connect, collaborate, or explore my projects 🙌
+<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,ts,mysql,git,github,postman,python,cpp,oracle" />
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anjalinandangi&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalinandangi&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anjalinandangi&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=anjalinandangi&theme=onedark&margin-w=15"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjalinandangi&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🔥 LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/anjali_nandangi?theme=dark&font=Karma)](https://leetcode.com/u/anjali_nandangi/)
+
+---
+
+⭐ Thanks for visiting my profile!
