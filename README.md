@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anjali Avinash Nandangi</h1>
+<h1 align="center">Hi 👋, I'm Anjali Nandangi</h1>
 
 <h3 align="center">
 Final Year B.Tech CSE Student | Java Full Stack Developer | Spring Boot Enthusiast
@@ -17,7 +17,6 @@ I enjoy solving Data Structures & Algorithms problems on LeetCode and continuous
 - 🌱 Learning **Java, Spring Boot, REST APIs, React**
 - 💻 Interested in **Backend Development & Full Stack Development**
 - 📚 Practicing **Data Structures & Algorithms**
-- 🎯 Goal: Become a Software Development Engineer (SDE)
 
 ---
 
@@ -59,13 +58,6 @@ I enjoy solving Data Structures & Algorithms problems on LeetCode and continuous
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anjalinandangi&theme=onedark&margin-w=15"/>
-</p>
-
----
 
 ## 📈 Activity Graph
 
