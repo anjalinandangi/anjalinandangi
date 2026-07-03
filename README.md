@@ -2,12 +2,7 @@
 
 <h3 align="center">
 Final Year B.Tech CSE Student | Java Full Stack Developer | Spring Boot Enthusiast
-</h3>
-
-<p align="center">
-Passionate about building scalable web applications using Java, Spring Boot, REST APIs, and React.
-I enjoy solving Data Structures & Algorithms problems on LeetCode and continuously improving my development skills.
-</p>
+</h3
 
 ---
 
@@ -22,14 +17,18 @@ I enjoy solving Data Structures & Algorithms problems on LeetCode and continuous
 
 ## 🌐 Connect with Me
 
+<h2>🌐 Connect with Me</h2>
+
 <p align="left">
+
 <a href="https://www.linkedin.com/in/anjali-nandangi-84996627b/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
 <a href="https://leetcode.com/u/anjali_nandangi/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50"/>
 </a>
+
 </p>
 
 ---
